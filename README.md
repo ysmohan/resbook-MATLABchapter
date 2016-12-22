@@ -49,7 +49,6 @@ A typical MATLAB interface contains
 <li>	A Workspacethat lists all the variables and functions currently loaded into the memory. You can view the contents of the variable by double clicking on the name of the variable in the workspace. </li>
 <li>	An Editor for writing, testing and saving code. </li>
 </ul></p>
-<p>
 
 ### Getting Help in MATLAB
  
