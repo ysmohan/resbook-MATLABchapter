@@ -37,15 +37,18 @@ MALTAB can be purchased and downloaded from the official Mathworks website (http
 
 Once MATLAB is successfully installed on your computer, you will find a ‘MATLAB app icon  ’ appear in the start menu if you are on Windows or in Launchpad/ Applications folder for Mac. Click on   to launch MATLAB interface. If everything is working perfectly, you should see a window appear similar to Fig. 1
 
-### Anatomy of a MATLAB interface
+### Anatomy of MATLAB interface
 
 A typical MATLAB interface contains
 <p><ul>
 <li>A Toolstrip at the top that contains command buttons and icons for commonly used functionality in MATLAB. It is organized by tabs that group related functionality. The toolstrip contains a number of global tabs, such as the Home tab, that are always present, and contextual tabs that become available when you need them.</li>
 <li> A Command window that allows you to enter and execute MATLAB commands and functions (a dedicated set of code lines designed to perform specific tasks) <br>
 <pre><code>Try typing 2+3 in your command window. We can essentially use this part of MATLAB as a calculator.</code></pre></li>
-<li>	A Current folder panel that lists all the files and folders present in your current working directory. MATLAB can access all the files that are present here through code.</li>
+<li>	A Current folder panel that lists all the files and folders present in your current working directory. MATLAB can access all the files that are present here through code. If we want to access files that are not in our current directory using MATLAB code, we can either manually move the files from their current location or change the current folder to the folder containing the necessary files. This can be done using the ```cd``` command followed by the location of the folder we want to change it to. For example, if I want to change my working directory to a folder in C drive called 'MatExample', I would type in:<br>
+<pre> <code> cd 'C:\MatExample' </code></pre> </li>
 <li>	A Workspacethat lists all the variables and functions currently loaded into the memory. You can view the contents of the variable by double clicking on the name of the variable in the workspace. </li>
 <li>	An Editor for writing, testing and saving code. </li>
 </ul></p>
+<p>
+
 ### Glossary
