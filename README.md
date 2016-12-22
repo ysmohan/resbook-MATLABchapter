@@ -51,4 +51,15 @@ A typical MATLAB interface contains
 </ul></p>
 <p>
 
+### Getting Help in MATLAB
+ 
+If you ask me what I like most about MATLAB’s interface, my answer will always be the ability to quickly and efficiently look for help. MATLAB comes equipped with a richly documented help and support functionality that you can access anytime. We’ve enumerated several ways of accessing MATLAB Help below. <br>
+<p><ul>
+<li> Type help and exact name of the command/function, separated by a space, in command window. </li>
+<li> Write your query in ‘Search Documentation’ field located on top right corner of MATLAB interface.</li>
+<li> Open MATLAB documentation from ‘Help’ menu on toolstrip.</li>
+<li> Search the internet! Remember Google is your best friend.</li>
+</ul></p>
+
+
 ### Glossary
