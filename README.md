@@ -67,3 +67,12 @@ A digital copy of the lesson material and the challenge files can be found here-
 ### Glossary
 
 And finally before we start off, here are a list of terms you need to be familiar with to make the best of this chapter-
+
+## Background
+
+### MATLAB
+MATLAB was developed way in the late 70s by a professor who just wanted his students to be able to do some Maths. He originally built it on a programming language called Fortran which was complicated and MATLAB was meant to be an easier alternative. In 1984, some others joined this professor and rebuilt MATLAB on another programming language called C and also established Mathworks. Because of its lineage, MATLAB is essentially used in the science and engineering communities when it comes to research and it does certain things like matrix manipulations really really well. How would is this useful to you? Well, a lot of data sets come as matrices that can be manipulated in MATLAB. For example, excel spreadsheets can be converted into matrices. Images can be converted into matrices. MATLAB allows you to easily manipulate these matrices.
+
+### Yamni
+
+
