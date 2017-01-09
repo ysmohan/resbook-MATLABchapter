@@ -64,6 +64,6 @@ If you ask me what I like most about MATLAB’s interface, my answer will always
 
 A digital copy of the lesson material and the challenge files can be found here- Provide GitHub link.
 
-And finally before we start off, here are a list of terms you need to be familiar with to make the best of this chapter-
-
 ### Glossary
+
+And finally before we start off, here are a list of terms you need to be familiar with to make the best of this chapter-
