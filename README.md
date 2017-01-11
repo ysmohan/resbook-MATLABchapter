@@ -77,7 +77,7 @@ MATLAB was developed way in the late 70s by a professor who just wanted his stud
 
 ### Warda
 
-<h2 id="ex"> Example </h2>
+<h2 id="ex"> Examples </h2>
 Other researchers around the world have used MATLAB analysis and data visualisation. Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. For those of you who haven't, you can find it here: LINK. The researchers in this study used MATLAB for data analysis and visualisation and here is what they had to say about it:
 
 “I use MATLAB for data analysis because it can handle the very large datasets produced in climate science.” – Dr. Ed Hawkins
