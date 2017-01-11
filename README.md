@@ -131,6 +131,36 @@ We created two vectors, X and Y. We can plot them individually by clicking on th
 <pre><code>% Use the scatter plot option in the PLOTS tab to make a scatter plot of X and Y.
 </code></pre>
 
+## Functions
+
+A function is the powerhouse of a MATLAB code
+
+In this section, we will introduce the concept of calling built-in or user-defined functions in MATLAB. 
+
+TIP: If you have prior coding experience, you might want to skip this section though if you are curious about the relationship between microwaving food and using a MATLAB function, we’ll suggest you to keep reading. 
+
+Use analogy of a microwave and a function call
+
+### Challenge
+
+Data, data everywhere …
+
+This function loads an image/picture/photo into the workspace, allows the user to select pixels and converts each pixel location into a ‘data point’. 
+
+### Description
+
+‘You are a final year PhD student, and you have been working on understanding ‘velocity profile of a falling batman’ for past four years. 
+
+During your research, you’ve collected and analysed a huge amount of data in MATLAB. Just before publishing your results, you found a top-secret government study on the same topic through Wikileaks. Now you want to compare your results with this new study but there is one hurdle – you’ve got no data from your rival study!
+
+Luckily, you find a MATLAB function ‘getData’ that you can use to retrieve data from figures/ images in the government study, except there is one catch – there is no documentation of the function and you don’t know how to properly use it!  Your only resource is a jpg image ‘Batman.jpg’
+
+Your task now is to figure out how to use the function properly and compare your results to the results of the government study.  Feel free to share your observations!’
+
+BONUS:Explore matlab plot function; use tools for changing color and style of plots etc (insert a link to plot documentation?)
+
+TIP: You can download similarly designed challenges and helper files from the course Github repository.
+
 #
 Master Challenge
 
