@@ -76,3 +76,59 @@ MATLAB was developed way in the late 70s by a professor who just wanted his stud
 ### Yamni
 
 ### Warda
+
+<h2 id="ex"> Example </h2>
+Other researchers around the world have used MATLAB analysis and data visualisation. Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. For those of you who haven't, you can find it here: LINK. The researchers in this study used MATLAB for data analysis and visualisation and here is what they had to say about it:
+
+“I use MATLAB for data analysis because it can handle the very large datasets produced in climate science.” – Dr. Ed Hawkins
+
+Without futher ado, let's begin our MATLAB journey.
+
+<h2 id="MatnVec"> Matrices and Vectors</h2>
+
+Matrices are the basic data structure in MATLAB.
+A matrix is a rectangular table of numbers.
+Any rectangular table of numbers can be thought of as a matrix;
+one example is a spreadsheet of numerical data.
+
+The reason matrices are so important is because they can be used to encode
+information about a lot of different types of mathematical objects.
+There are also rules which let us combine matrices together,
+called matrix operations.
+Matrix operations are analogous to arithmetic between numbers,
+and are even still called addition and multiplication.
+
+A matrix that has only one column or only one row is called a vector.
+In this sub-section, we are going to do some basic matrix and vector operations.
+
+
+![](RowsandColumns.PNG)
+
+We can simply add two matrices or vectors by using the ```+``` sign or subtract them using the ```-``` sign. To multiply and divide we use ```.*``` and ```./```. We use the ```.``` terminology to make sure the operation we are performing applies to each individual element in our matrix or vector.
+
+##### Note: When performing operations such as addition, subtraction, multiplication or division on two matrices, then need to be of the same size.
+
+<h3 id= "Challenge2"> Challenge #2 </h3>
+
+<pre><code>% Copy and paste the following code into the command window.
+X= [1:5];
+Y= [1:2:10]; % We are making two vectors and calling them X and Y. These will appear in our workspace.
+
+% Add the two vectors.
+% Now multiply them.
+</code></pre>
+
+<hr> </hr>
+
+<h2 id= "plot"> Plotting </h2>
+
+We created two vectors, X and Y. We can plot them individually by clicking on the vector in the workspace, going to the plots tab and clicking plot.
+
+![](plotting.png)
+
+<h3 id= "Challenge3"> Challenge #3 </h3>
+
+<pre><code>% Use the scatter plot option in the PLOTS tab to make a scatter plot of X and Y.
+</code></pre>
+
+
