@@ -134,7 +134,7 @@ We created two vectors, X and Y. We can plot them individually by clicking on th
 
 ## Functions
 
-A function is the powerhouse of a MATLAB code
+#### A function is the powerhouse of a MATLAB code
 
 In this section, we will introduce the concept of calling built-in or user-defined functions in MATLAB. 
 
