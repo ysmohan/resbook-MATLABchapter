@@ -77,9 +77,6 @@ Before MATLAB, number curnching was a complicated task and involved a programmin
 
 Because of its lineage, MATLAB is essentially used in the science and engineering communities when it comes to research and it does certain things like matrix manipulations really really well. How is this useful to you? Well, a lot of datasets come as matrices that can be manipulated in MATLAB. For example, excel spreadsheets can be converted into matrices. Images can be converted into matrices. MATLAB allows you to easily work with these matrices.
 
-### Yamni
-
-### Warda
 
 <h2 id="ex"> Examples </h2>
 Other researchers around the world have used MATLAB analysis and data visualisation. Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. For those of you who haven't, you can find it here: LINK. The researchers in this study used MATLAB for data analysis and visualisation and here is what they had to say about it:
