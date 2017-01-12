@@ -1,6 +1,6 @@
 # Introduction
 
-Matlab is a fourth generation programming language used for data analysis, modeling, algorithm development, testing and application design. Matlab is used extensively for data analysis by engineers, scientists, researchers and statisticians. 
+Matlab is a programming language used for data analysis, modeling, algorithm development, testing and application design. Matlab is used extensively for data analysis by engineers, scientists, researchers and statisticians. 
 
 
 ## Learning Objectives:
@@ -146,9 +146,9 @@ In order to better understand the concept of functions lets consider an analogy 
 
 Now that we have a fairly clear idea of what a MATLAB function is and how it works, lets put our knowledge to practice. Go to the MATLAB interface and type the lines of code given below in the command window. 
 
-A=10;
+<code> A=10;
 B = 20;
-plus(A+B)
+plus(A+B) </code>
 
 
 ### Challenge
