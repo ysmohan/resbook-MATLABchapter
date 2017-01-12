@@ -146,8 +146,8 @@ In order to better understand the concept of functions lets consider an analogy 
 
 Now that we have a fairly clear idea of what a MATLAB function is and how it works, lets put our knowledge to practice. Go to the MATLAB interface and type the lines of code given below in the command window. 
 
-<code> A=10;
-B = 20;
+<code> A=10;\\
+B = 20;\\
 plus(A+B) </code>
 
 
