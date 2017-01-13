@@ -171,24 +171,20 @@ Luckily, you find a MATLAB function ‘getData’ that you can use to retrieve d
 
 Your task now is to figure out how to use the function properly and compare your results to the results of the government study.  Feel free to share your observations!’
 
-BONUS:Explore matlab plot function; use tools for changing color and style of plots etc (insert a link to plot documentation?)
-
 TIP: You can download similarly designed challenges and helper files from the course Github repository.
 
-#
-Master Challenge
 
-###Bad Science!
+### Bad Science!
 
-You are a budding climate scientist. You wanted to make great changes to the world using science. But academia being the cruel mistress she is broke you. You decided to turn to industry ("the lucrative, dark side of science"). However, poor judgement on your part followed by numerous bad
+So... it turns out that your results were the same as government study. You take this particularly badly. After years and years of blood and sweat, all your work turned out to be for nothing. You wanted to make great changes to the world using science. But academia being the cruel mistress she is broke you. You decided to turn to industry ("the lucrative, dark side of science"). However, poor judgement on your part followed by numerous bad
 decisions left you working for the Big Bad — Evil Corp, aka E-Corp, headed by CEO Big Frump. Now E-Corp was not a good organisation. They had numerous dealings in
 non-renewable energy sources and rumour has it that their scientists practiced "Bad Science". Their key motto was "Correlation = Causation" —
 the simple principle that just because two events are related, one must have caused the other. Their arguments frequently involved repeatedly
 yelling "Wrong" and their favorite explanation was "Because I said so."
-Seduced by the ease of non-reason and misinformation, you've have indeed turned to the dark side.
+Seduced by the ease of non-reason and misinformation, you have indeed turned to the dark side.
 
 ### The Task
-In the face of damning evidence suggesting that global temperatures are indeed rising, Big Frump himself has decided to put together a task
+In the face of damning evidence suggesting that global temperatures are indeed rising as shown in example 1, Big Frump himself has decided to put together a task
 force. You are a part of this task force of like-minded immoral "scientists". Your task is to come up with the worst possible climate hypothesis. You have trawled through the internet and found numerous data sets which can be found here and you need to use your MATLAB skills to find a relationship between them. Through this bad science you will help E-Corp perpetrate hate and fear. You will help Big Frump rule the post-apocalyptic wasteland that will be his one lasting legacy.
 Mwahahahaha!
 
