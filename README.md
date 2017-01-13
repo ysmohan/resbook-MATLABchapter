@@ -38,6 +38,8 @@ MALTAB can be purchased and downloaded from the official Mathworks website (http
 
 Once MATLAB is successfully installed on your computer, you will find a ‘MATLAB app icon  ’ appear in the start menu if you are on Windows or in Launchpad/ Applications folder for Mac. Click on   to launch MATLAB interface. If everything is working perfectly, you should see a window appear similar to Fig. 1
 
+![alt tag](https://github.com/ysmohan/resbook-MATLABchapter/blob/master/Figures/MatlabInterface.png)
+
 ### Anatomy of MATLAB interface
 
 A typical MATLAB interface contains
