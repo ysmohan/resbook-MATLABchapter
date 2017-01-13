@@ -39,6 +39,7 @@ MALTAB can be purchased and downloaded from the official Mathworks website (http
 Once MATLAB is successfully installed on your computer, you will find a ‘MATLAB app icon ![alt tag](https://github.com/ysmohan/resbook-MATLABchapter/blob/master/Figures/MATLABicon.png) ’ appear in the start menu if you are on Windows or in Launchpad/ Applications folder for Mac. Click on  ![alt tag](https://github.com/ysmohan/resbook-MATLABchapter/blob/master/Figures/MATLABicon.png) to launch MATLAB interface. If everything is working perfectly, you should see a window appear similar to Fig. 1
 
 ![alt tag](https://github.com/ysmohan/resbook-MATLABchapter/blob/master/Figures/MatlabInterface.png)
+Fig. 1 An example of a MATLAB interface.
 
 ### Anatomy of MATLAB interface
 
@@ -142,9 +143,9 @@ In this section, we will introduce the concept of calling built-in or user-defin
 
 TIP: If you have prior coding experience, you might want to skip this section though if you are curious about the relationship between microwaving food and using a MATLAB function, we’ll suggest you to keep reading. 
 
-A function is defined as a dedicated piece of code written to perform a specific programming task. Each function has a distinct name and can be ‘called’ by other functions or any other body of code. Generally, a function accepts some input variables called ‘arguments’ and returns an output. However, it is possible for a function to have no input arguments or output. For instance, the function ‘plus(a,b)’ in MATLAB is used to calculate sum of two numbers. It accepts two input arguments ‘a’ and ‘b’ and returns the sum ‘a+b’ as output.  
+A function is defined as a dedicated piece of code written to perform a specific programming task. Each function has a distinct name and can be ‘called’ by other functions or any other body of code. Generally, a function accepts some input variables called ‘arguments’ and returns an output. For instance, the function ‘plus(a,b)’ in MATLAB is used to calculate sum of two numbers. It accepts two input arguments ‘a’ and ‘b’ and returns the sum ‘a+b’ as output. It is possible for a function to have no input arguments or output.  
 
-In order to better understand the concept of functions lets consider an analogy between a microwave and a MATLAB function. A microwave performs a specific task i.e. heating/cooking food just like a function. When using a microwave, we first open the door, place the food, close the door and hit the start button. Similarly, when calling a function in our code, we first write the name of the function, open the parenthesis ‘(’ to indicate that now we are going to pass the input arguments, write all the required input arguments, and close the parenthesis ‘)’. We then hit ‘enter’ to execute the function. Once the microwave is done heating or the function is done executing, we get the output. In case of the microwave	, the output is steaming hot food and for a function the output is usually one or more variables. 
+In order to better understand the concept of functions lets consider an analogy between a microwave and a MATLAB function. A microwave performs a specific task i.e. heating/cooking food just like a function. When using a microwave, we first open the door, place the food, close the door and hit the start button. Similarly, when calling a function in our code, we first write the name of the function, open the small brackets ‘(’ to indicate that now we are going to pass the input arguments, write all the required input arguments, and close the close the small brackets ‘)’. We then hit ‘enter’ to execute the function. Once the microwave is done heating or the function is done executing, we get the output. In case of the microwave	, the output is steaming hot food and for a function the output is usually one or more variables. 
 
 Now that we have a fairly clear idea of what a MATLAB function is and how it works, lets put our knowledge to practice. Go to the MATLAB interface and type the lines of code given below in the command window. 
 
@@ -152,10 +153,11 @@ Now that we have a fairly clear idea of what a MATLAB function is and how it wor
 B = 20;
 plus(A+B) </code></pre>
 
+MATLAB comes equipped with a wide range of pre-defined functions to help us in developing our codes efficeintly and quickly.
 
-### Challenge
+TIP: Some of the most widely MALTAB funcitons are clc, plot, save, load, mean, std. You can go to MALTAB help and explore the available functions.
 
-Data, data everywhere …
+### User defined functions
 
 This function loads an image/picture/photo into the workspace, allows the user to select pixels and converts each pixel location into a ‘data point’. 
 
