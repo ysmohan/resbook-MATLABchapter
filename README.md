@@ -106,13 +106,13 @@ A matrix that has only one column or only one row is called a vector.
 In this sub-section, we are going to do some basic matrix and vector operations.
 
 
-![](RowsandColumns.PNG)
+![alt tag](https://github.com/ysmohan/resbook-MATLABchapter/blob/master/Figures/RowsandColumns.PNG)
 
 We can simply add two matrices or vectors by using the ```+``` sign or subtract them using the ```-``` sign. To multiply and divide we use ```.*``` and ```./```. We use the ```.``` terminology to make sure the operation we are performing applies to each individual element in our matrix or vector.
 
 ##### Note: When performing operations such as addition, subtraction, multiplication or division on two matrices, then need to be of the same size.
 
-<h3 id= "Challenge2"> Challenge #2 </h3>
+<h3 id= "Challenge1"> Challenge #1 </h3>
 
 <pre><code>% Copy and paste the following code into the command window.
 X= [1:5];
@@ -128,7 +128,7 @@ Y= [1:2:10]; % We are making two vectors and calling them X and Y. These will ap
 
 We created two vectors, X and Y. We can plot them individually by clicking on the vector in the workspace, going to the plots tab and clicking plot.
 
-![](plotting.png)
+![alt tag](https://github.com/ysmohan/resbook-MATLABchapter/blob/master/Figures/plotting.png)
 
 <h3 id= "Challenge3"> Challenge #3 </h3>
 
