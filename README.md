@@ -82,9 +82,13 @@ Because of its lineage, MATLAB is essentially used in the science and engineerin
 
 
 <h2 id="ex"> Examples </h2>
-Other researchers around the world have used MATLAB analysis and data visualisation. Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. For those of you who haven't, you can find it here: LINK. The researchers in this study used MATLAB for data analysis and visualisation and here is what they had to say about it:
+Other researchers around the world have used MATLAB for analysis and data visualisation. Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature.
+![alt tag](http://blogs.reading.ac.uk/climate-lab-book/files/2016/09/spiral_aug2016.gif). 
 
+The researchers in this study used MATLAB for data analysis and visualisation and here is what they had to say about it:
 “I use MATLAB for data analysis because it can handle the very large datasets produced in climate science.” – Dr. Ed Hawkins
+
+
 
 Without futher ado, let's begin our MATLAB journey.
 
