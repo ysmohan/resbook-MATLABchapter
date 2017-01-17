@@ -97,10 +97,10 @@ This quote highlights one of MATLAB's important functionalities, i.e., it deals 
 
 The detection of gravitational waves was arguably one of the most exciting scientific discoveries of this century. It was proof of a 100 year old problem and was detected by an advanced LIGO (aLIGO). Not to detract from the news but MATLAB was used in multiple aspects of the underlying research.  A MATLAB toolbox called Optikle was custom built to simulate the aLIGO so the researchers could better understand the behaviour of the complex aLIGO system. Another MATLAB based tool called GWINC was used to simulate the noise performance of the aLIGO system given certain parameters. Further, MATLAB also proved friendly to the collaborative nature of the project. The description of on image on the cover of the LIGO magazine said this: " A MATLAB-based procedure developed by Darkhan Tuyenbayev (graduate student from UTB) and implemented by Thomas Abbott (graduate student from LSU)... ". Apart from sweet intra-country collaborations, the ease with which MATLAB code can be shared amongst researchers is also demonstrated here. Infact, the project had "1000 scientists and engineers focused on the task by 2015", the gravitational wave was detected between observatories in Washington state and Lousiana operated by Caltech and MIT. The publication mentioned collaborators from all over the world including Australia. It's use in the process shows how flexible MATLAB toolboxes can be. Here are some links if you need more information.
 
- ![MATLAB blog](http://blogs.mathworks.com/headlines/2016/05/19/100-years-later-a-faint-chirp-proves-einstein-was-right/?s_eid=PSM_gen&hootPostID=03fee7910bfb1984713095cd054d6c74)
+ [MATLAB blog](http://blogs.mathworks.com/headlines/2016/05/19/100-years-later-a-faint-chirp-proves-einstein-was-right/?s_eid=PSM_gen&hootPostID=03fee7910bfb1984713095cd054d6c74)
  
- ![A list of Mark Evans Publications](https://emvogil-3.mit.edu/~mevans/papers.html)
- ![Advanced LIGO anticipated Sensitivity Curves] (https://dcc.ligo.org/public/0002/T0900288/002/AdvLIGO%20noise%20curves.pdf)
+ [A list of Mark Evans Publications](https://emvogil-3.mit.edu/~mevans/papers.html)
+ [Advanced LIGO anticipated Sensitivity Curves] (https://dcc.ligo.org/public/0002/T0900288/002/AdvLIGO%20noise%20curves.pdf)
 
 
 
