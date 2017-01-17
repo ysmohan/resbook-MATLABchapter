@@ -82,12 +82,11 @@ Because of its lineage, MATLAB is essentially used in the science and engineerin
 
 
 <h2 id="ex"> Examples </h2>
-<p> In academia, MATLAB is used in many capacities. It is used for data analysis, visualisations, and for modelling and prediction. MATLAB toolboxes have also contributed to some major discoveries around the world. In this part, we will look at some examples of how MATLAB can be useful in various aspects of research.</p>
+In academia, MATLAB is used in many capacities. It is used for data analysis, visualisations, and for modelling and prediction. MATLAB toolboxes have also contributed to some major discoveries around the world. In this part, we will look at some examples of how MATLAB can be useful in various aspects of research.
 
+### Data Analysis and Visualisation: A climate Science Story
 
-### Customised MATLAB tools and gravitational waves.
-
-Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. 
+Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature.
 
 ![alt tag](http://blogs.reading.ac.uk/climate-lab-book/files/2016/09/spiral_aug2016.gif). 
 
