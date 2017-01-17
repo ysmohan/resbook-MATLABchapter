@@ -130,7 +130,7 @@ We created two vectors, X and Y. We can plot them individually by clicking on th
 
 ![alt tag](https://github.com/ysmohan/resbook-MATLABchapter/blob/master/Figures/plotting.png)
 
-<h3 id= "Challenge3"> Challenge #3 </h3>
+<h3 id= "Challenge2"> Challenge #2 </h3>
 
 <pre><code>% Use the scatter plot option in the PLOTS tab to make a scatter plot of X and Y.
 </code></pre>
