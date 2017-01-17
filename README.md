@@ -82,11 +82,25 @@ Because of its lineage, MATLAB is essentially used in the science and engineerin
 
 
 <h2 id="ex"> Examples </h2>
-Other researchers around the world have used MATLAB for analysis and data visualisation. Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature.
-![alt tag](http://blogs.reading.ac.uk/climate-lab-book/files/2016/09/spiral_aug2016.gif). 
+<p> In academia, MATLAB is used in many capacities. It is used for data analysis, visualisations, and for modelling and prediction. MATLAB toolboxes have also contributed to some major discoveries around the world. In this part, we will look at some examples of how MATLAB can be useful in various aspects of research.
 
-The researchers in this study used MATLAB for data analysis and visualisation and here is what they had to say about it:
+### Data Analysis and Visualisation: A climate science example.
+Some of you may have seen the climate spiral — a graph of spiralling temperatures from the late 1800s to now, showing an increase in global temperature. </p>
+![alt tag](http://blogs.reading.ac.uk/climate-lab-book/files/2016/09/spiral_aug2016.gif).  </p>
+
+<p> Dr. Ed Hawkins,Climate scientist in the National Centre for Atmospheric Science (NCAS) at the University of Reading, used MATLAB for data analysis and visualisation and here is what they had to say about it:
 “I use MATLAB for data analysis because it can handle the very large datasets produced in climate science.” – Dr. Ed Hawkins
+This quote highlights one of MATLAB's important functionalities, i.e., it deals well with large datasets and this is because of it's ability to do matrix manipulations. It also highlights MATLAB's advanced graphic capabilities.
+</p>
+
+### Customised MATLAB tools and gravitational waves.
+
+The detection of gravitational waves was arguably one of the most exciting scientific discoveries of this century. It was proof of a 100 year old problem and was detected by an advanced LIGO (aLIGO). Not to detract from the news but MATLAB was used in multiple aspects of the underlying research.  A MATLAB toolbox called Optikle was custom built to simulate the aLIGO so the researchers could better understand the behaviour of the complex aLIGO system. Another MATLAB based tool called GWINC was used to simulate the noise performance of the aLIGO system given certain parameters. Further, MATLAB also proved friendly to the collaborative nature of the project. The description of on image on the cover of the LIGO magazine said this: " A MATLAB-based procedure developed by Darkhan Tuyenbayev (graduate student from UTB) and implemented by Thomas Abbott (graduate student from LSU)... ". Apart from sweet intra-country collaborations, the ease with which MATLAB code can be shared amongst researchers is also demonstrated here. Infact, the project had "1000 scientists and engineers focused on the task by 2015", the gravitational wave was detected between observatories in Washington state and Lousiana operated by Caltech and MIT. The publication mentioned collaborators from all over the world including Australia. It's use in the process shows how flexible MATLAB toolboxes can be. Here are some links if you need more information.
+
+ ![MATLAB blog](http://blogs.mathworks.com/headlines/2016/05/19/100-years-later-a-faint-chirp-proves-einstein-was-right/?s_eid=PSM_gen&hootPostID=03fee7910bfb1984713095cd054d6c74)
+ 
+ ![A list of Mark Evans Publications](https://emvogil-3.mit.edu/~mevans/papers.html)
+ ![Advanced LIGO anticipated Sensitivity Curves] (https://dcc.ligo.org/public/0002/T0900288/002/AdvLIGO%20noise%20curves.pdf)
 
 
 
