@@ -164,6 +164,8 @@ A function is defined as a dedicated piece of code written to perform a specific
 
 In order to better understand the concept of functions lets consider an analogy between a microwave and a MATLAB function. A microwave performs a specific task i.e. heating/cooking food just like a function. When using a microwave, we first open the door, place the food, close the door and hit the start button. Similarly, when calling a function in our code, we first write the name of the function, open the small brackets ‘(’ to indicate that now we are going to pass the input arguments, write all the required input arguments, and close the close the small brackets ‘)’. We then hit ‘enter’ to execute the function. Once the microwave is done heating or the function is done executing, we get the output. In case of the microwave	, the output is steaming hot food and for a function the output is usually one or more variables. 
 
+![alt tag](https://github.com/ysmohan/resbook-MATLABchapter/blob/master/Figures/function.pdf)
+
 Now that we have a fairly clear idea of what a MATLAB function is and how it works, lets put our knowledge to practice. Go to the MATLAB interface and type the lines of code given below in the command window. 
 
 <pre><code>A=10;
