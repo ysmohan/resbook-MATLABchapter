@@ -234,9 +234,9 @@ At the end of this chapter, you would have learned how to:
 - How to use functions and the need for them.
 - How to extract data from a figure and then re-plot them.
 
-If you want to learn more about using MATLAB, you can find course material here:
-There are also easy to understand videos here:
+If you want to learn more about using MATLAB, you can find our course material here:
 
+LINKs to be added.
 
 
 
