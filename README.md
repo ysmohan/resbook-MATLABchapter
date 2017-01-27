@@ -74,7 +74,6 @@ And finally before we start off, here are a list of terms you need to be familia
 
 - Algorithm: A structured code implementing a method to solve a specific problem.
 - Variable: A variable is a container where you store values and the values can be changed according to our needs.
-- 
 
 # Background
 
